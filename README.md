@@ -9,7 +9,7 @@ This repository contains tensorflow implemenation of the proposed weakly supervi
 ## Dataset
 We utlize two different GA datasets (Dataset 1 and Dataset 2) and one normal (Dataset 3) dataset to evaluate the model. Each dataset contains SD-OCT cubes with three dimensions. All the cubes contain the advanced non-exudative AMD with GA.
 > Our datasets were acquired with a Cirrus OCT device from Stanford University.
-### The summarizations of data information on three datasets
+####* The summarizations of data information on three datasets
 
 |             |   Dataset 1  |   Dataset 2  |   Dataset 3  |
 | ----------- | ------------ | ------------ | ------------ |
